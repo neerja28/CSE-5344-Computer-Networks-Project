@@ -4,7 +4,7 @@
 In this project, I have learnt to develop a multithreaded Web server and a simple web client. The Web server and Web client communicate using a text-based protocol called HTTP (Hypertext Transfer Protocol). All the programs are written in python v2. All the programs are run and tested on Mac OS using the default terminal and iterm IDE. I have used tmux to efficiently code the programs.
 
 ---------------------------------------------------
-PROGRAM 1 : Basic Client and Multi Threaded Server
+Program 1 : Basic Client and Multi Threaded Server
 ---------------------------------------------------
 
 Execution:
@@ -21,7 +21,7 @@ python2 client.py localhost README.md
 
 
 ------------------------------------------------------
-PROGRAM 2 : Simple HTTP WEB Server
+Program 2 : Simple HTTP WEB Server
 ------------------------------------------------------
 
 Execution:
@@ -39,7 +39,7 @@ sudo python2 http-client.py 127.0.0.1
 ex. GET index.html
 
 -----------------------------------------------------------------------
-PROGRAM 3: Simple HTTP Web Server to display the contents on the browser
+Program 3: Simple HTTP Web Server to display the contents on the browser
 ------------------------------------------------------------------------
 
 Execution:
