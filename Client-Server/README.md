@@ -1,5 +1,6 @@
-*1001575625
-Neerja Narayanappa*
+*Neerja Narayanappa 
+1001575625
+*
 
 In this project, I have learnt to develop a multithreaded Web server and a simple web client. The Web server and Web client communicate using a text-based protocol called HTTP (Hypertext Transfer Protocol). All the programs are written in python v2. All the programs are run and tested on Mac OS using the default terminal and iterm IDE. I have used tmux to efficiently code the programs.
 
